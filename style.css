@@ -1,0 +1,8 @@
+.wrapper {
+    background: linear-gradient(rgb(183, 59, 255), rgb(110, 110, 255));
+    min-height: 100vh;
+}
+
+.table>:not(caption)>*>* {
+    background-color: transparent !important;
+}
